@@ -6,8 +6,8 @@ En dehors de cela, il fonctionne correctement à tout moment et met fréquemment
 
 ## Screenshot's 🎬
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/t0sklen/SynapseX/assets/166543134/d0fd25f5-79ab-4ee9-8403-329e34963a7e)
+![image](https://github.com/t0sklen/SynapseX/assets/166543134/36010fdf-b757-488a-9708-91b5be6413d1)
 
 
 ## Requirements
